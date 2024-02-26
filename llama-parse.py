@@ -12,7 +12,7 @@ nest_asyncio.apply()
 from llama_parse import LlamaParse
 
 parser = LlamaParse(
-    api_key="llx-lwpIlZPQHpsOrav8yDTL3HjtyuFfomxdbFKW4Xn0sXrrW4A8",  # can also be set in your env as LLAMA_CLOUD_API_KEY
+    # api_key="llx-XXX",  # can also be set in your env as LLAMA_CLOUD_API_KEY
     result_type="markdown",  # "markdown" and "text" are available
     num_workers=4, # if multiple files passed, split in `num_workers` API calls
     verbose=True
