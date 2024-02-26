@@ -4,3 +4,4 @@ storage/graph_store.json
 storage/image__vector_store.json
 storage/index_store.json
 .DS_Store
+keys/devcontainer.env
