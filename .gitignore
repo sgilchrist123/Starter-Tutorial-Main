@@ -5,3 +5,8 @@ storage/image__vector_store.json
 storage/index_store.json
 .DS_Store
 .keys/devcontainer.env
+storageForLlamaParse/default__vector_store.json
+storageForLlamaParse/docstore.json
+storageForLlamaParse/graph_store.json
+storageForLlamaParse/image__vector_store.json
+storageForLlamaParse/index_store.json
